@@ -1,0 +1,14 @@
+﻿  Skeleton.cpp
+C:\Users\geova\OneDrive\Egyetem\Grafika\2.HF\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\framework.h(167,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\geova\OneDrive\Egyetem\Grafika\2.HF\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(47,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\geova\OneDrive\Egyetem\Grafika\2.HF\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(253,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\geova\OneDrive\Egyetem\Grafika\2.HF\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(253,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\geova\OneDrive\Egyetem\Grafika\2.HF\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(273,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\geova\OneDrive\Egyetem\Grafika\2.HF\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(277,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\geova\OneDrive\Egyetem\Grafika\2.HF\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(288,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\geova\OneDrive\Egyetem\Grafika\2.HF\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(310,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\geova\OneDrive\Egyetem\Grafika\2.HF\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(387,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\geova\OneDrive\Egyetem\Grafika\2.HF\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(392,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\geova\OneDrive\Egyetem\Grafika\2.HF\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(401,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Skeleton.vcxproj -> C:\Users\geova\OneDrive\Egyetem\Grafika\2.HF\GrafikaHaziCsomag\Programs\Skeleton\bin\Skeleton.exe
